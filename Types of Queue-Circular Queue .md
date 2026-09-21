@@ -82,5 +82,7 @@ obj.printCQueue()
 
 ### Output:
 <img width="334" height="344" alt="image" src="https://github.com/user-attachments/assets/9b11ddd9-2c98-423d-a499-ba1e80fb8ca8" />
+
+
 ## Result:
 Thus,the program is executed successfully
